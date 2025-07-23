@@ -1,2 +1,2 @@
-# Credit-Card-Fraud-Detection
-A model is trained to predict whether there is a fraud or not.
+# Cars Price Prediction
+A model is trained to predict the price of a car based on the attributes of the car
